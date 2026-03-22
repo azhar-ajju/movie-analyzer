@@ -5,7 +5,7 @@
 export const MOVIES = [
   {
     id: 'shawshank',
-    title: 'The Shawshank Redemption',
+    title: 'The Shawshank Redemption--updated',
     thumbnail: '/images/movies/shawshank-redemption.jpg',
     year: 1994,
     genre: 'Drama'
